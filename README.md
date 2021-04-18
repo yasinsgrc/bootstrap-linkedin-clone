@@ -1,1 +1,3 @@
-# bootstrap-linkedin-clone
+## Kodluyoruz Bootstrap homework 3 
+
+### Linkedin Bootstrap Clone
